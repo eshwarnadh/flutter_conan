@@ -28,7 +28,7 @@ class _MyAppState extends State<MyApp> {
         color: Colors.grey[900],
         child: Column(
           children: <Widget>[
-            const ListTile(
+            ListTile(
               leading: Icon(
                 Icons.album,
                 color: Colors.grey,
